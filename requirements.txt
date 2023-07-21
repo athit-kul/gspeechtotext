@@ -139,12 +139,11 @@ tensorboard==2.13.0
 tensorboard-data-server==0.7.1
 threadpoolctl==3.2.0
 toolz==0.12.0
-torch==1.13.1
-torchaudio==0.13.1
+torch==2.0.1
+torchaudio==2.0.2
 torch-audiomentations==0.11.0
-torchmetrics==0.11.4
+torchmetrics==1.0.1
 torch-pitch-shift==1.2.4
-torchvision==0.15.2
 tqdm==4.65.0
 typer==0.9.0
 typing_extensions==4.7.1
